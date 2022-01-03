@@ -11,7 +11,7 @@ This project was developed with the following technologies:
 - [NextJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [SWR](https://swr.vercel.app/)
-## Rodando localmente
+## Running locally
 
 Clone o projeto
 
