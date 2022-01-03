@@ -25,7 +25,7 @@ Enter the project directory
   cd SWR
 ```
 
-Instale as dependências
+Install dependencies
 
 ```bash
   yarn
@@ -33,7 +33,7 @@ Instale as dependências
   npm install
 ```
 
-Inicie a Aplicação
+Start the App
 
 ```bash
   yarn start
