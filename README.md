@@ -41,7 +41,7 @@ Start the App
   npm run start
 ```
 
-Inicie o servidor
+Start the server
 
 ```bash
    yarn server
