@@ -13,13 +13,13 @@ This project was developed with the following technologies:
 - [SWR](https://swr.vercel.app/)
 ## Running locally
 
-Clone o projeto
+Clone the project
 
 ```bash
   git clone https://github.com/Rath-github/SWR
 ```
 
-Entre no diretório do projeto
+Enter the project directory
 
 ```bash
   cd SWR
