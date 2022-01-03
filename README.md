@@ -46,7 +46,7 @@ Inicie o servidor
 ```bash
    yarn server
 ```
-## Contribuindo
+## Contributing
 
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b my-feature`;
