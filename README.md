@@ -1,4 +1,3 @@
-
 # SWR
 
 A preview of using SWR(`stale-while-revalidate`)
