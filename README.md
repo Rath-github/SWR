@@ -45,6 +45,8 @@ Start the server
 
 ```bash
    yarn server
+   or
+   npm run dev
 ```
 ## Contributing
 
